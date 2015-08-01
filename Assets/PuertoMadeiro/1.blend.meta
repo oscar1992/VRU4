@@ -152,6 +152,10 @@ ModelImporter:
     100292: Plane_008
     100294: FundLamoara
     100296: Cylinder_013
+    100298: Circle_009
+    100300: Circle_010
+    100302: Circle_011
+    100304: Circle_012
     400000: //RootNode
     400002: Circle001
     400004: Cojin
@@ -301,6 +305,10 @@ ModelImporter:
     400292: Plane_008
     400294: FundLamoara
     400296: Cylinder_013
+    400298: Circle_009
+    400300: Circle_010
+    400302: Circle_011
+    400304: Circle_012
     2300000: Circle001
     2300002: Cojin
     2300004: Cojin_001
@@ -436,6 +444,10 @@ ModelImporter:
     2300264: Plane_008
     2300266: FundLamoara
     2300268: Cylinder_013
+    2300270: Circle_009
+    2300272: Circle_010
+    2300274: Circle_011
+    2300276: Circle_012
     3300000: Circle001
     3300002: Cojin
     3300004: Cojin_001
@@ -571,6 +583,10 @@ ModelImporter:
     3300264: Plane_008
     3300266: FundLamoara
     3300268: Cylinder_013
+    3300270: Circle_009
+    3300272: Circle_010
+    3300274: Circle_011
+    3300276: Circle_012
     4300000: Cube_048
     4300002: Cube_047
     4300004: Cube_046
@@ -706,6 +722,10 @@ ModelImporter:
     4300264: Grid
     4300266: FundLamoara
     4300268: Cylinder_013
+    4300270: Circle_011
+    4300272: Circle_009
+    4300274: Circle_010
+    4300276: Circle_012
     6400000: Circle001
     6400002: Cojin
     6400004: Cojin_001
@@ -841,6 +861,10 @@ ModelImporter:
     6400264: Puertas_003
     6400266: FundLamoara
     6400268: Cylinder_013
+    6400270: Circle_009
+    6400272: Circle_010
+    6400274: Circle_011
+    6400276: Circle_012
     7400000: Default Take
     9500000: //RootNode
   materials:

@@ -10,7 +10,7 @@ function Start () {
 
 function Update () {
 	dir=Input.acceleration;
-	brujula=Input.compass.magneticHeading;
+	brujula=Mathf.Round(Input.compass.magneticHeading);
 	
 	
 	var blanco=Quaternion.Euler((-getAccelez()*85),brujula,(-getAccelex()*85));
@@ -31,8 +31,8 @@ function getAccelez(){
 }
 
 function OnGUI(){         
-    GUI.Label(Rect(0,50,200,25), "EN Z"+getAccelez());
+   /* GUI.Label(Rect(0,50,200,25), "EN Z"+getAccelez());
     GUI.Label(Rect(0,70,200,25), "EN X"+getAccelex());
     GUI.Label(Rect(0,90,200,25), "EN Y"+getAcceley());
-    GUI.Label(Rect(0,110,200,25), "Brujula: "+brujula);   
+    GUI.Label(Rect(0,110,200,25), "Brujula: "+brujula);   */
 }
